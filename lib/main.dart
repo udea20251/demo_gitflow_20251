@@ -121,7 +121,7 @@ class _MyHomePageState extends State<MyHomePage> {
   }
 }
 //Creación de Develop
-//Edwin Andres Cubillos Vega
+//Edwin Andrés Cubillos Vega
 //Holman Londoño Restrepo
 //Camilo Andres Medina Herrera
 //David Correa Ochoa
